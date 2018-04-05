@@ -1,0 +1,1 @@
+for i in range(6): print(" " * (i - 1) + "*" * (6 - i))
